@@ -17,3 +17,13 @@
 .ex-2-square{
     transition-duration: 2s;
 }
+
+/* ESERCIZIO 3 */
+
+.ex-3-square:hover{
+    border-radius: 100%;
+}
+
+.ex-3-square{
+    transition-duration: 1s;
+}
