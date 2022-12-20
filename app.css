@@ -68,3 +68,14 @@
 .ex-7-img{
     transition-duration: 2s;
 }
+
+/* ESERCIZIO 8 */
+
+.ex-8-img:hover{
+    filter: grayscale(0.5) sepia(60%);
+    border-radius: 20px;
+}
+
+.ex-8-img{
+    transition-duration: 2s;
+}
