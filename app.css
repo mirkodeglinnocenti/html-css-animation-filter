@@ -37,3 +37,17 @@
 .ex-4-square{
     transition-duration: 1s;
 }
+
+/* ESERCIZIO 5 */
+
+.ex-5-square:hover{
+    transform: scale(2);
+}
+
+.ex-5-square:active{
+    transform: scale(0.5);
+}
+
+.ex-5-square{
+    transition-duration: 1s;
+}
